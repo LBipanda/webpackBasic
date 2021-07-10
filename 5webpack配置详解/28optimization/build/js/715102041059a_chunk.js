@@ -1,0 +1,1 @@
+(self.webpackChunk_23entry=self.webpackChunk_23entry||[]).push([[715],{715:(e,n,s)=>{"use strict";function c(e,n){console.log(e+n)}s.r(n),s.d(n,{add:()=>c})}}]);

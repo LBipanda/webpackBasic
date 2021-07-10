@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("test文件被加载了~~~~"),console.log("index文件被加载了~~~~"),console.log(3),"serviceWorker"in navigator&&window.addEventListener("load",(function(){navigator.serviceWorker.register("/service-worker.js").then((function(){console.log("设置成功")})).catch((function(){console.log("设置失败")}))}))})();

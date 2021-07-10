@@ -1,0 +1,1 @@
+(()=>{console.log(30);const o=new Promise((o=>{setTimeout((()=>{console.log("定时器执行完毕"),o()}),1e3)}));console.log(o)})();

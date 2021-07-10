@@ -1,0 +1,72 @@
+{
+  "id": "1898343",
+  "name": "VUE3.0",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "后台管理系统",
+  "glyphs": [
+    {
+      "icon_id": "6275357",
+      "name": "减号",
+      "font_class": "icon-test",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "577312",
+      "name": "加号",
+      "font_class": "jiahao",
+      "unicode": "e726",
+      "unicode_decimal": 59174
+    },
+    {
+      "icon_id": "10487548",
+      "name": "电源",
+      "font_class": "dianyuan",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "1766472",
+      "name": "符号-菜单",
+      "font_class": "caidan",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "6802048",
+      "name": "User",
+      "font_class": "User",
+      "unicode": "e707",
+      "unicode_decimal": 59143
+    },
+    {
+      "icon_id": "14799699",
+      "name": "通用-选择框",
+      "font_class": "xwtubiaoku-04",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "4427392",
+      "name": "编辑",
+      "font_class": "tubiaozhizuomobanyihuifu-",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "5288588",
+      "name": "列表",
+      "font_class": "liebiao",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "5485681",
+      "name": "信息 (2)",
+      "font_class": "xinxi",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    }
+  ]
+}
